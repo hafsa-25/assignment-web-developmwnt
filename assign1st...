@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn React.js</title>
+</head>
+<body>
+    <h1>Learn React.js</h1>
+    <p>React.js is a JavaScript library used for building user interfaces, especially for single-page applications.</p>
+    
+    <h2>Why Learn React?</h2>
+    <ul>
+        <li>Component-Based Architecture</li>
+        <li>Fast Rendering with Virtual DOM</li>
+        <li>Strong Community Support</li>
+    </ul>
+    
+    <h2>Steps to Get Started</h2>
+    <ol>
+        <li>Install Node.js and npm</li>
+        <li>Create a React App using Create React App</li>
+        <li>Understand JSX and Components</li>
+        <li>Learn State and Props</li>
+        <li>Build and Deploy Your First App</li>
+    </ol>
+</body>
+</html>
